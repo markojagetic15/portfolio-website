@@ -188,7 +188,7 @@ body {
 
 .navbar {
   margin: 0 0 2em 0;
-  background-color: #F4EEFF;
+  background-color: transparent;
   z-index: 200;
 }
 
