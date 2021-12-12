@@ -148,9 +148,6 @@
   }
 }
 
-html {
-  cursor: url("../images/cursor.png") 50 50, auto;
-}
 
 a {
   text-decoration: none;
@@ -247,7 +244,7 @@ body {
   margin: 8% 0 2% 0;
   text-align: center;
   position: relative;
-  color: #424874;
+  color: #ffffff;
 }
 
 .welcome .welcome-text .intro {
@@ -266,7 +263,6 @@ body {
   -webkit-transition: 0.5s ease-in;
   transition: 0.5s ease-in;
   color: #424874;
-  cursor: url("../images/hover.png") 50 50, auto;
 }
 
 .welcome .welcome-text .intro-desc {
@@ -323,9 +319,6 @@ body {
   color: #00B8A9;
 }
 
-.about-me .desc span:hover {
-  cursor: url("../images/hover.png") 50 50, auto;
-}
 
 .about-me .web-dev {
   padding: 10% 0 0 0;
@@ -367,7 +360,6 @@ body {
   transition: 0.5s ease-in;
   -webkit-transform: scale(1.1);
           transform: scale(1.1);
-  cursor: url("../images/hover.png") 50 50, auto;
 }
 
 .my-projects {
@@ -413,7 +405,6 @@ body {
 
 .my-projects h2 a:hover {
   color: #00B8A9;
-  cursor: url("../images/hover.png") 50 50, auto;
 }
 
 .my-projects h2 p {
@@ -441,7 +432,6 @@ body {
 .contact-me .social-icons i:hover {
   -webkit-filter: invert(1);
           filter: invert(1);
-  cursor: url("../images/hover.png") 50 50, auto;
 }
 
 @media (max-width: 700px) {
