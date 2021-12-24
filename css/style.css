@@ -223,7 +223,9 @@ body {
   -webkit-transform: translate3d(0, 0.4em, 0);
           transform: translate3d(0, 0.4em, 0);
 }
-
+.navbar-toggler-icon{
+  color:white;
+}
 @media (min-width: 1000px) {
   .navbar {
     position: absolute;
